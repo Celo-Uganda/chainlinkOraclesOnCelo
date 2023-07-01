@@ -1,6 +1,3 @@
-here is the oracles project, add it to packages/hardhat/contracts
-
-```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
@@ -42,4 +39,5 @@ contract NFTContract is ERC721, Ownable {
     }
 
 }
-````
+
+}
